@@ -7,3 +7,5 @@ int c = a + b;
 Console.WriteLine(c);
 
 Console.WriteLine("hello from feature-day1 branch");
+
+Console.WriteLine("change by B");
